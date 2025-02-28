@@ -10,7 +10,7 @@ const Page = (props: Props) => {
   const [isEnabled, setIsEnabled] = useState(false);
   const toggleSwitch = () => setIsEnabled((previousState) => !previousState);
 
-  const GITHUB_USERNAME = "https://github.com/KavinduSenesh/react-native-news-app";
+  const GITHUB_USERNAME = "https://github.com/DeshanNanayakkara/DailyPulse-NewsApplication";
 
   const handleAbout = () => {
     Linking.openURL(`https://github.com/${GITHUB_USERNAME}`)
