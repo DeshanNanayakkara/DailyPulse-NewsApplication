@@ -22,7 +22,6 @@ This Weather App is built using React Native and Expo, utilizing the OpenWeather
 To run the Weather App locally:
 
 1. Clone this repository:
-https://github.com/CharakaMihiranga/WeatherApp.git
 
 2. Obtain API keys for OpenWeather API and Unsplash API.
 
